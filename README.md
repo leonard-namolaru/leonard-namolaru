@@ -1,6 +1,8 @@
-### Hi there 👋
+![header](https://user-images.githubusercontent.com/43020428/187356095-1d5de100-9e59-4c42-98e1-8b7c67add683.png)
 
 <!--
+### Hi there 👋
+
 **leonard-namolaru/leonard-namolaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
