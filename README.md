@@ -1,4 +1,4 @@
-![header](https://github.com/leonard-namolaru/leonard-namolaru/blob/main/header.png?raw=true)
+![header](https://github.com/leonard-namolaru/leonard-namolaru/blob/main/new-header.png?raw=true)
 
 <!--
 ### Hi there 👋
